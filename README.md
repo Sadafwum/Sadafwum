@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sadafwum
-- 👀 I’m interested in human nutrition, public health nutition, clinical trials.
-- 🌱 I’m currently learning nutrigenomics, metabolic disorders relationship with dietary factors at cellular level
-- 💞️ I’m looking to collaborate on research activities
+- 👋 Hi, I’m Sadaf Ambreen
+- 👀 I’m interested in public health nutition, clinical trials, genomic approahes the field of nutrition.
+- 🌱 I’m currently learning nutrigenomics, metabolic disorders relationship with dietary factors at cellular level, epigenetics and -of-the-art methodologies in research lab
+- 💞️ I’m looking to collaborate with international universities, and to explore new techniques in the field of nutrition.
 - 📫 How to reach me ? sadafambrenhn@gmail.com
 
 <!---
